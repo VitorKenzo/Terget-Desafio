@@ -1,7 +1,7 @@
 import json
 
 # lendo dados do json
-with open('data.json', 'r') as json_file:
+with open('dados.json', 'r') as json_file:
     data = json.load(json_file)
 
 # variaveis auxiliares
